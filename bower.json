@@ -1,0 +1,14 @@
+{
+  "name": "hello",
+  "homepage": "https://github.com/zhujie123/hello",
+  "description": "html",
+  "main": "hello",
+  "moduleType": [],
+  "keywords": [
+    "ht"
+  ],
+  "authors": [
+    "zhu"
+  ],
+  "license": "MIT"
+}
